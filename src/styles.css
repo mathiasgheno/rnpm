@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  background-color: darkgrey;
+}
+
+.app {
+  width: 50%;
+  border: 3px dotted black;
+  padding: 10px;
+  margin: 0 auto;
+}
